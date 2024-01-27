@@ -1,0 +1,14 @@
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\WypozyczalniaFilmow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\WypozyczalniaFilmow.AssemblyInfoInputs.cache
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\WypozyczalniaFilmow.AssemblyInfo.cs
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\WypozyczalniaFilmow.csproj.CoreCompileInputs.cache
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\bin\Debug\net7.0\WypozyczalniaFilmow.exe
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\bin\Debug\net7.0\WypozyczalniaFilmow.deps.json
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\bin\Debug\net7.0\WypozyczalniaFilmow.runtimeconfig.json
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\bin\Debug\net7.0\WypozyczalniaFilmow.dll
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\bin\Debug\net7.0\WypozyczalniaFilmow.pdb
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\WypozyczalniaFilmow.dll
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\refint\WypozyczalniaFilmow.dll
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\WypozyczalniaFilmow.pdb
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\WypozyczalniaFilmow.genruntimeconfig.cache
+E:\Projekty\VS\WypozyczalniaFilmow\WypozyczalniaFilmow\obj\Debug\net7.0\ref\WypozyczalniaFilmow.dll
