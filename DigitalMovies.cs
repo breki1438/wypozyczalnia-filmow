@@ -27,9 +27,8 @@ namespace WypozyczalniaFilmow
                     director = data[1].Trim(),
                     year = int.Parse(data[2].Trim()),
                     genre = data[3].Trim(),
-                    price = int.Parse(data[4].Trim()),
-                    type = data[5].Trim(),
-                    distribution = data[6].Trim()
+                    type = data[4].Trim(),
+                    distribution = data[5].Trim()
                 };
                 if (movie.type == "cyfrowy")
                     moviesList.Add(movie);
@@ -41,14 +40,14 @@ namespace WypozyczalniaFilmow
         public void getAllDigitalMovies()
         {
             foreach (DigitalMovies movie in getDigitalMovies())
-                Console.WriteLine(movie.title + " " + movie.distribution + " " + movie.director + " " + movie.year + " " + movie.genre + " " + movie.price);
+                Console.WriteLine(movie.title + " " + movie.distribution + " " + movie.director + " " + movie.year + " " + movie.genre);
         }
 
         public void getDigitalMovie(string title)
         {
             foreach (DigitalMovies movie in getDigitalMovies())
                 if (movie.title == title)
-                    Console.WriteLine(movie.title + " " + " " + movie.distribution + " " + movie.director + " " + movie.year + " " + movie.genre + " " + movie.price);
+                    Console.WriteLine(movie.title + " " + " " + movie.distribution + " " + movie.director + " " + movie.year + " " + movie.genre);
         }
     }
 }

@@ -29,7 +29,6 @@ namespace WypozyczalniaFilmow
                 {
                     int currentStorage = int.Parse(strings[1]);
                     int newStorage = currentStorage - 1;
-
                     strings[1] = " " + newStorage;
                     lines[i] = string.Join(",", strings);
                 }                  

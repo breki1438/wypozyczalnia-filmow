@@ -1,3 +1,4 @@
-Oppenheimer, Christopher Nolan, 2023, Biograficzny, 17, cyfrowy, Amazon Prime Video, -
-Barbie, Jakis Rezyser, 2023, Komedia, 15, cyfrowy, Disney Plus, -
-Mroczny Rycerz, Christopher Nolan, 2009, Thriller, 8, plytka, Blu-Ray, dobry
+Oppenheimer, Christopher Nolan, 2023, Biograficzny, cyfrowy, Amazon Prime Video, -
+Barbie, Greta Gerwig, 2023, Komedia, cyfrowy, Disney Plus, -
+Mroczny Rycerz, Christopher Nolan, 2009, Thriller, plytka, Blu-Ray, dobry
+Joker, Todd Phillips, 2019, Dramat, plytka, DVD, bardzo dobry

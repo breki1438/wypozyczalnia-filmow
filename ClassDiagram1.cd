@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WypozyczalniaFilmow.Customers">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAACAAAAAAAAAAAAAEAAAAAEIEAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WypozyczalniaFilmow.DigitalMovies">
+    <Position X="12.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAgAAAEAAAAAAABAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>DigitalMovies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WypozyczalniaFilmow.Movies">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFCAAAQAAQAAAAAAAAAAACAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Movies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WypozyczalniaFilmow.MovieStorage">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAABAAAAAAAAAQAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>MovieStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WypozyczalniaFilmow.PhysicalMovies">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAEAAGAABAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicalMovies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WypozyczalniaFilmow.PremiumCustomers">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PremiumCustomers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WypozyczalniaFilmow.Rental">
+    <Position X="8.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAABAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

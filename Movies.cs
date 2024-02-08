@@ -29,7 +29,6 @@ namespace WypozyczalniaFilmow
                     director = data[1].Trim(),
                     year = int.Parse(data[2].Trim()),
                     genre = data[3].Trim(),
-                    price = int.Parse(data[4].Trim())
                 };
 
                     moviesList.Add(movie);
@@ -41,14 +40,14 @@ namespace WypozyczalniaFilmow
         public void getAllMovies()
         {
             foreach (Movies movie in getMovies())
-                Console.WriteLine(movie.title + " " + movie.director + " " + movie.year + " " + movie.genre + " " + movie.price);
+                Console.WriteLine(movie.title + " " + movie.director + " " + movie.year + " " + movie.genre);
         }
 
         public void getMovie(string title)
         {
             foreach (Movies movie in getMovies())
                 if(movie.title == title)
-                    Console.WriteLine(movie.title + " " + movie.director + " " + movie.year + " " + movie.genre + " " + movie.price);             
+                    Console.WriteLine(movie.title + " " + movie.director + " " + movie.year + " " + movie.genre);             
         }
     }
 }
